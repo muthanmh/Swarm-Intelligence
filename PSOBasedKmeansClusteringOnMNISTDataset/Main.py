@@ -1,7 +1,5 @@
 ##################################################################################################
 '''
-Problem-2
----------
 Code referenced from
 1. http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html
 2. https://github.com/liviaalmeida/clustering/blob/master/PSO.py
